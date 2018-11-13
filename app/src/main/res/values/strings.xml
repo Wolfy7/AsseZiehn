@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">AsseZiehn</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="button_options">Optionen</string>
+    <string name="button_start">Start</string>
+    <string name="wolfy7"><a href="http://www.wolfy7.de/">Wolfy7</a>Wolfy 7</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="empty_string"/>
+    <string name="button_close">Schliessen</string>
+    <string name="autor">André Decher</string>
+    <string name="url">www.wolfy7.de</string>
+    <string name="description">AsseZiehn ist ein Karten Trinkspiel.
+Es kann mit beliebig vielen Personen (2-X) gespielt werden.
+Die Regeln sind denkbar einfach: Es wird reihum jeweils eine Karte auf gedeckt, jedem Kartenwert (Ass, König, 10, usw.) kann/ist eine Bedeutung zugewiesen. Die Person die durch die Karte, eine andere Person oder sonstigem ausgewählt wurde muss einen „kurzen“ bzw. einen „schluck“ trinken.
+Default Kartenbedeutungen:
+Ass = Es darf ein/-e Mitspieler/-in ausgewählt werden der/die trinkt. Im Falle dass „Leo“ mit spielt muss diese gewählt werden.
+König = Der Ziehende selbst muss trinken.
+Dame = Links vom Ziehenden muss trinken.
+Bube = Rechts vom Ziehenden muss trinken.
+10 = Alle müssen trinken (auch der ziehende).
+9 = Noseman: Der Ziehende ist von nun an und bis zur nächsten gezogenen 9 der „Noseman“. Wann immer er möchte darf er einen seiner Finger gegen seine Nase drücken, der Mitspieler der zuletzt sein Finger gegen die Nase (die eigene versteht sich :) ) muss trinken.
+8 = Der gegenüber vom Ziehenden sitzt muss trinken.
+7 = Thema: Der Ziehende bestimmt ein Thema zu dem jeder Abwechselnd, der Ziehende beginnt, ein dazu gehörenden Punkt sagt.
+z.B. Automarken: BMW, Mercedes, Ford… usw.
+Welchem Mitspieler keines mehr einfällt oder ein schon gesagtes Wiederholt muss trinken.
+</string>
+
+
+</resources>

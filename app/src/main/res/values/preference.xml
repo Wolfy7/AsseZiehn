@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preference_title">Einstellungen</string>
+    <string name="positive_button">OK</string>
+    <string name="negative_button">Abbrechen</string>
+    <string-array name="deck_of_cards_name">
+        <item>32 Karten (Skat)</item>
+        <item>52 Karten (Poker)</item>
+    </string-array>
+    <string-array name="deck_of_cards_values">
+        <item>32</item>
+        <item>52</item>
+    </string-array>
+    <string name="pref_ace">Ass</string>
+    <string name="pref_king">König</string>
+    <string name="pref_queen">Dame</string>
+    <string name="pref_jack">Bube</string>
+    <string name="pref_ten">10</string>
+    <string name="pref_nine">9</string>
+    <string name="pref_eight">8</string>
+    <string name="pref_seven">7</string>
+    <string name="pref_six">6</string>
+    <string name="pref_five">5</string>
+    <string name="pref_four">4</string>
+    <string name="pref_three">3</string>
+    <string name="pref_two">2</string>
+    <string name="pref_card_summary">Was soll gemacht werden?</string>
+    <string name="pref_leo">Leo trinkt</string>
+    <string name="pref_leo_summary">Spielt Leo mit?</string>
+
+</resources>

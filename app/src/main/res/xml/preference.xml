@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/preference_title">
+        <ListPreference android:entries="@array/deck_of_cards_name" android:entryValues="@array/deck_of_cards_values" android:title="Kartendeck" android:key="card_deck" android:defaultValue="32" android:summary="32 oder 52 Karten?" />
+        <EditTextPreference android:key="pref_ace" android:title="@string/pref_ace" android:summary="@string/pref_card_summary" android:defaultValue="@string/ace"/>
+        <EditTextPreference android:key="pref_king" android:summary="@string/pref_card_summary" android:title="@string/pref_king" android:defaultValue="@string/king"/>
+        <EditTextPreference android:key="pref_queen" android:summary="@string/pref_card_summary" android:title="@string/pref_queen" android:defaultValue="@string/queen"/>
+        <EditTextPreference android:key="pref_jack" android:summary="@string/pref_card_summary" android:title="@string/pref_jack" android:defaultValue="@string/jack"/>
+        <EditTextPreference android:key="pref_ten" android:summary="@string/pref_card_summary" android:title="@string/pref_ten" android:defaultValue="@string/ten"/>
+        <EditTextPreference android:key="pref_nine" android:summary="@string/pref_card_summary" android:title="@string/pref_nine" android:defaultValue="@string/nine"/>
+        <EditTextPreference android:defaultValue="@string/eight" android:key="pref_eight" android:summary="@string/pref_card_summary" android:title="@string/pref_eight"/>
+        <EditTextPreference android:defaultValue="@string/seven" android:key="pref_seven" android:summary="@string/pref_card_summary" android:title="@string/pref_seven"/>
+        <EditTextPreference android:defaultValue="@string/empty_string" android:key="pref_six" android:summary="@string/pref_card_summary" android:title="@string/pref_six"/>
+        <EditTextPreference android:defaultValue="@string/empty_string" android:key="pref_five" android:summary="@string/pref_card_summary" android:title="@string/pref_five"/>
+        <EditTextPreference android:defaultValue="@string/empty_string" android:key="pref_four" android:summary="@string/pref_card_summary" android:title="@string/pref_four"/>
+        <EditTextPreference android:defaultValue="@string/empty_string" android:key="pref_three" android:summary="@string/pref_card_summary" android:title="@string/pref_three"/>
+        <EditTextPreference android:defaultValue="@string/empty_string" android:key="pref_two" android:summary="@string/pref_card_summary" android:title="@string/pref_two"/>
+        <CheckBoxPreference android:key="pref_leo" android:title="@string/pref_leo" android:defaultValue="false" android:summary="@string/pref_leo_summary"/><Preference android:summary="Default Werte laden" android:key="pref_custom" android:title="Default Einstellung"/>
+
+    </PreferenceScreen>

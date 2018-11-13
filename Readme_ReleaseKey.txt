@@ -1,3 +1,0 @@
-my-release-key
-releasekey_alias
-asseziehn
